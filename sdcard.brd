@@ -73,14 +73,14 @@
 </layers>
 <board>
 <plain>
-<wire x1="0.2" y1="0" x2="32.1" y2="0" width="0" layer="20"/>
-<wire x1="32.1" y1="0" x2="32.1" y2="36.1" width="0" layer="20"/>
-<wire x1="32.1" y1="36.1" x2="0.2" y2="36.1" width="0" layer="20"/>
+<wire x1="0.2" y1="0" x2="25.4" y2="0" width="0" layer="20"/>
+<wire x1="25.4" y1="0" x2="25.4" y2="36.1" width="0" layer="20"/>
+<wire x1="25.4" y1="36.1" x2="0.2" y2="36.1" width="0" layer="20"/>
 <wire x1="0.2" y1="36.1" x2="0.2" y2="0" width="0" layer="20"/>
-<text x="30.5" y="1" size="1.778" layer="1" rot="R90">Max Wolf 2018
-Level Shifting SD Breakout V1</text>
 <dimension x1="0.2" y1="0" x2="0.2" y2="36.1" x3="-6.5" y3="18.05" textsize="1.778" layer="1"/>
-<dimension x1="0.2" y1="0" x2="32.1" y2="0" x3="16.15" y3="-3.9" textsize="1.778" layer="1"/>
+<text x="21" y="20.2" size="0.5" layer="1" rot="R90">Max Wolf 2019
+Level Shifting SD Breakout V1</text>
+<dimension x1="0.2" y1="0" x2="25.4" y2="0" x3="12.8" y3="-2" textsize="0.5" layer="1"/>
 </plain>
 <libraries>
 <library name="TLV75533PDRVR">
@@ -2017,8 +2017,8 @@ design rules under a new name.</description>
 <polygon width="0.1524" layer="1">
 <vertex x="0.2" y="36.1"/>
 <vertex x="0.2" y="0"/>
-<vertex x="32.1" y="0"/>
-<vertex x="32.1" y="36.1"/>
+<vertex x="25.4" y="0"/>
+<vertex x="25.4" y="36.1"/>
 </polygon>
 </signal>
 <signal name="CLK2">
